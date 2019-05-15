@@ -1,0 +1,17 @@
+#navbar{
+  position:absolute;
+  top:0px;
+  left:0px;
+}
+
+#main{
+ position:absolute;
+  top:150px;
+  left:150px;
+}
+
+@media screen and (max-width: 992px) {
+  body {
+    background-color: grey;
+  }
+}
